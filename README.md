@@ -1,4 +1,5 @@
-![MasterHead](https://www.kali.org/blog/kali-linux-modern-wsl/images/kali-linux-modern-wsl.jpg)
+<img align="right" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
+
 <h1 align="center">Hi 👋, I'm Revaha Oztekin</h1>
 <h3 align="center">A passionate Cyber Security Analyst from Turkey</h3>
 
@@ -37,5 +38,3 @@
 <a href="https://linkedin.com/in/revaha özteki̇n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revaha özteki̇n" height="30" width="40" /></a>
 </p>
 <p>
-  
-
