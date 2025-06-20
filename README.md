@@ -1,12 +1,12 @@
-<img align="right" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
-
 <h1 align="center">Hi 👋, I'm Revaha Oztekin</h1>
 <h3 align="center">A passionate Cyber Security Analyst from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revahaztkn&label=Profile%20views&color=0e75b6&style=flat" alt="revahaztkn" /> </p>
 
 # 💻 Languages and Tools:
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -24,17 +24,21 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+<p align="center">
+    <img align="center" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
+</p>
 
 - 📝 I regularly write articles on [www.revahaoztekin.com](www.revahaoztekin.com)
-
 - 💬 Ask me about **Information Security**
-
 - 📫 How to reach me **revahaoztekin@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/revaha özteki̇n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revaha özteki̇n" height="30" width="40" /></a>
 </p>
-<p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revahaztkn&show_icons=true&locale=en&layout=compact" alt="revahaztkn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=revahaztkn&show_icons=true&locale=en" alt="revahaztkn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revahaztkn&" alt="revahaztkn" /></p>
