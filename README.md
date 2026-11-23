@@ -24,9 +24,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-    <img align="center" alt="Coding" width="400" src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif">
-</p>
 
 - 📝 I regularly write articles on [www.revahaoztekin.com](www.revahaoztekin.com)
 - 💬 Ask me about **Information Security**
